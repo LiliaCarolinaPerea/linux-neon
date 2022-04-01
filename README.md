@@ -7,3 +7,4 @@ Sistema operativo para el Desarrollo de una comunidad
 ![img](imagenes/img5.PNG)
 ![img](imagenes/img6.PNG)
 ![img](imagenes/img7.PNG)
+![img](imagenes/img8.PNG)
